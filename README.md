@@ -9,4 +9,4 @@
 ・リマインダーを設定することで期限を通知  
 ・「タスクの作成順」「タスクの期限順」にソート  
 ## Architecture
-<img src="https://user-images.githubusercontent.com/87401291/126036595-306d9406-9a38-43cc-9568-7b6523271f0f.jpeg" width="320px">
+<img src="https://user-images.githubusercontent.com/87401291/126036595-306d9406-9a38-43cc-9568-7b6523271f0f.jpeg" width="640px">
