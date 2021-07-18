@@ -11,6 +11,7 @@
 ## Architecture
 * Google推奨のアーキテクチャを利用
 <img src="https://user-images.githubusercontent.com/87401291/126036595-306d9406-9a38-43cc-9568-7b6523271f0f.jpeg" width="640px">
+
 ### Used libraries
 * ViewModel
 * LiveData
